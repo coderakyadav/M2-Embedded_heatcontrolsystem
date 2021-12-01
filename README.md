@@ -6,7 +6,7 @@
 [![Compile-Linux](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/compile.yml/badge.svg)](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/compile.yml)
 [![GitInspector](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/GitInspector.yml)
 [![Linux C/C++ CI](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/Linux-c-cpp.yml/badge.svg)](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/Linux-c-cpp.yml)
-
+[![cppcheck](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/codequality.yml/badge.svg)](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/codequality.yml)
 #  M2-Embedded_Heatcontrolsystem
 
 ## Heat Control System 
