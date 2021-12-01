@@ -1,3 +1,6 @@
+![code quality score](https://api.codiga.io/project/30167/score/svg)
+![code grade](https://api.codiga.io/project/30167/status/svg)
+
 #  M2-Embedded_Heatcontrolsystem
 
 ## Heat Control System 
