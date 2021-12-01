@@ -35,8 +35,3 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 
 
-### CI and Code Quality
-
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/hemanthasapu/embedded_systems_project_256889/actions/workflows/Compile.yml/badge.svg)](https://github.com/hemanthasapu/embedded_systems_project_256889/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/hemanthasapu/embedded_systems_project_256889/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/hemanthasapu/embedded_systems_project_256889/actions/workflows/CodeQuality.yml)||
