@@ -15,7 +15,7 @@ Below shows two images where in the 1st image shows the status of the simulation
 ![ON](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Simulation.gif)
 
 #### OFF
-![OFF](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Simulation_OFF.PNG)
+![OFF](![Screenshot (335)](https://user-images.githubusercontent.com/94376599/144197395-ac7d91f3-5100-49b0-9b4c-805ca6bde339.png))
 
 #### Outputs
 
