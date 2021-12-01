@@ -3,6 +3,8 @@
 
 #  M2-Embedded_Heatcontrolsystem
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5a2ad4e076d40f6a1c34f860bac9e89)](https://app.codacy.com/gh/coderakyadav/M2-Embedded_heatcontrolsystem?utm_source=github.com&utm_medium=referral&utm_content=coderakyadav/M2-Embedded_heatcontrolsystem&utm_campaign=Badge_Grade_Settings)
+
 ## Heat Control System 
 
 ### Theory
