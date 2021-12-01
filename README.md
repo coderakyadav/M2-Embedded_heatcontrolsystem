@@ -2,6 +2,7 @@
 ![code grade](https://api.codiga.io/project/30167/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/11868fe7d6ff4f348d6be9da922d6e22)](https://www.codacy.com/gh/coderakyadav/M2-Embedded_heatcontrolsystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=coderakyadav/M2-Embedded_heatcontrolsystem&amp;utm_campaign=Badge_Grade)
 [![C/C++ CI](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/c-cpp.yml)
+[![CI](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/main.yml/badge.svg)](https://github.com/coderakyadav/M2-Embedded_heatcontrolsystem/actions/workflows/main.yml)
 
 #  M2-Embedded_Heatcontrolsystem
 
